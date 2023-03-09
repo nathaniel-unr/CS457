@@ -1,0 +1,1 @@
+clang-format -i ./apps/*.cpp ./src/**/*.cpp ./src/*.cpp ./include/**/*.h ./include/*.h ./tests/*.cpp
